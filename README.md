@@ -1,4 +1,4 @@
-<h2 align="center">TOols Attack Website</h2>
+<h2 align="center">Tools For Attack Websites</h2>
 <em><h4 align="center">(Programming Language - Python 3)</h4></em>
 
  <h2><img src="https://img.shields.io/badge/Author-./Mr. Pstar7-blueviolet"/>
@@ -16,7 +16,7 @@
 >TOOLS INI DISUSUN DAN DIKEMBANGKAN OLEH MR PSTAR7 DARI KOMUNITAS INDONESIAN CYBER ATTACK | OFC
 
 ### Preview
-<img src="https://raw.githubusercontent.com/Mr-Pstar7/attack-web/img/Screenshot_2024-05-12-18-50-34-14_84d3000e3f4017145260f7618db1d683.jpg">
+<img src="https://i.ibb.co/1d9LTK7/IMG-20240513-WA0007.jpg">
 <p align="center">
 
 
